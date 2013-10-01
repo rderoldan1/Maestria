@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  30 SEP 2013 22:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  30 SEP 2013 22:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -122,20 +122,20 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 ] (./ensayo_corea.aux) ) 
 Here is how much of TeX's memory you used:
- 375 strings out of 493315
- 4411 string characters out of 6137904
- 57184 words of memory out of 5000000
- 3873 multiletter control sequences out of 15000+600000
+ 376 strings out of 493315
+ 4419 string characters out of 6137904
+ 58184 words of memory out of 5000000
+ 3874 multiletter control sequences out of 15000+600000
  13899 words of font info for 50 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 22i,8n,19p,545b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 22i,8n,19p,631b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti10.pfb>
-Output written on ensayo_corea.pdf (1 page, 81524 bytes).
+Output written on ensayo_corea.pdf (1 page, 83633 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
